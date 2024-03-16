@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FatimaIrshad, a juniour software developer.
+- 👋 Hi, I’m Fatima Irshad, a juniour software developer.
 - 👀 I’m interested in learning new things and exploring them.
 - I'm a full mern stack engineer, and also know:
    1. Prisma
