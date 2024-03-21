@@ -4,7 +4,8 @@
    1. Prisma
    2. Postgresql
    3. Able to deploy express app on Cloudflare Worker.
-- 🌱 I’m currently learning Nextjs
+   4. Nextjs
+- 🌱 I’m currently making Projects
 
 <!---
 FatimaIrshad123/FatimaIrshad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
