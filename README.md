@@ -5,7 +5,7 @@
    2. Postgresql
    3. Able to deploy express app on Cloudflare Worker.
    4. Nextjs
-- 🌱 I’m currently making Projects
+- 🌱 I’m currently making Projects to polish my skills.
 
 <!---
 FatimaIrshad123/FatimaIrshad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
