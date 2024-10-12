@@ -1,6 +1,6 @@
 
 Hi there, I'm Fatima Irshad 👋
-I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks.
+- I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks.
 
 🔧 Technologies & Skills:
    - Frontend: React, Next.js, JavaScript, TypeScript
