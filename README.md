@@ -1,24 +1,24 @@
 
 # Hi there, I'm Fatima Irshad 👋
-</br>
-<h3> I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks. </h3>
 
-🔧 Technologies & Skills:
-   - Frontend: React, Next.js, JavaScript, TypeScript
-   - Backend: Node.js, Express.js, Prisma
-   - Databases: MongoDB, PostgreSQL
-   - Deployment: Cloudflare Workers, Vercel, Heroko, Netlify
-   - Others: Git, Tailwind CSS, Firebase
+<h4> I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks. </h4>
 
-🌱 Currently Working On
+<h3>🔧 Technologies & Skills: </h3>
+   - Frontend: React, Next.js, JavaScript, TypeScript </br>
+   - Backend: Node.js, Express.js, Prisma </br>
+   - Databases: MongoDB, PostgreSQL </br>
+   - Deployment: Cloudflare Workers, Vercel, Heroko, Netlify </br>
+   - Others: Git, Tailwind CSS, Firebase </br>
+
+<h3>🌱 Currently Working On </h3>
 I’m actively building projects to polish my skills, experimenting with new technologies, and working on the following:
 
 - Full-stack applications with the MERN stack
 - Deployment strategies using modern platforms like Cloudflare Workers
 
-🚀 What I'm Excited About
-- Improving my cloud deployment skills
-- Contributing to open-source projects
+<h3>🚀 What I'm Excited About </h3>
+- Improving my cloud deployment skills </br>
+- Contributing to open-source projects </br>
 - Learning advanced TypeScript features and serverless architectures
 <!---
 FatimaIrshad123/FatimaIrshad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
