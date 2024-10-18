@@ -1,7 +1,7 @@
 
-# Hi there, I'm Fatima Irshad 👋
+<h1 align="center">Hi there, I'm Fatima Irshad 👋</h1>
 
-<h4> I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks. </h4>
+<h4 align="center"> I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks. </h4>
 
 <h3>🔧 Technologies & Skills: </h3>
    - Frontend: React, Next.js, JavaScript, TypeScript </br>
@@ -20,6 +20,11 @@ I’m actively building projects to polish my skills, experimenting with new tec
 - Improving my cloud deployment skills </br>
 - Contributing to open-source projects </br>
 - Learning advanced TypeScript features and serverless architectures
+
+<h3>Languages and Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwindcss,firebase,express,postgres,prisma,vite,postman,graphql,apollo,mongodb,cloudflare,bootstrap)](https://skillicons.dev)
+
 <!---
 FatimaIrshad123/FatimaIrshad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
