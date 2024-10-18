@@ -23,7 +23,7 @@ I’m actively building projects to polish my skills, experimenting with new tec
 
 <h3>Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwindcss,firebase,express,postgres,prisma,vite,postman,graphql,apollo,mongodb,cloudflare,bootstrap)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwindcss,firebase,express,postgres,prisma,vite,postman,graphql,apollo,mongodb,cloudflare,bootstrap)
 
 <!---
 FatimaIrshad123/FatimaIrshad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
