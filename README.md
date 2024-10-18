@@ -27,6 +27,10 @@ I’m actively building projects to polish my skills, experimenting with new tec
 </p>
 <hr></hr>
 
+<div style="display: flex; flex-direction: row;">
+   <img class="img" src="https://github-readme-stats.vercel.app/api?username=FatimaIrshad123&show_icons=true&theme=radical"/>   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaIrshad123&layout=donut&theme=radical"/>
+</div>
 <!---
 FatimaIrshad123/FatimaIrshad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
