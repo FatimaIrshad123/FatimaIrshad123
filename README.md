@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there, I'm Fatima Irshad 👋</h1>
+<h1 align="center">Hi, I'm Fatima Irshad 👋</h1>
 
-<p align="center"> I'm a Junior Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks. </p>
+<p align="center"> I'm a Software Developer passionate about exploring and learning new technologies to enhance my skills. As a Full-Stack MERN Engineer, I have hands-on experience with various tools and frameworks. </p>
 
 <h3>🔧 Technologies & Skills: </h3>
    - Frontend: React, Next.js, JavaScript, TypeScript </br>
